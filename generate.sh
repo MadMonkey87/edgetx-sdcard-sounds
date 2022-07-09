@@ -8,3 +8,4 @@ find "$(dirname "$0")" -name "*.log" -delete
 ./voice-gen.py voices/en-GB.csv en-IE-EmilyNeural en
 ./voice-gen.py voices/en-GB.csv en-GB-LibbyNeural en_gb-libby
 ./voice-gen.py voices/en-GB.csv en-GB-RyanNeural en_gb-ryan
+./voice-gen.py voices/de-DE.csv de-DE-KatjaNeural de
