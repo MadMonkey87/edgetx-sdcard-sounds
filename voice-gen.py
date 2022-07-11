@@ -60,8 +60,8 @@ def main() -> None:
     delay_time = args.delay
 
     try:
-        speech_key = os.environ['COGNITIVE_SERVICE_API_KEY']
-        service_region = os.environ['SERVICE_REGION']
+        speech_key = '321ad7266a934042b37bfc835182c9a3'
+        service_region = 'eastus'
     except KeyError:
         print("ERROR: Please set the environment variables for Speech and Service Region")
         sys.exit(1)
