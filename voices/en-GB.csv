@@ -371,3 +371,6 @@
 "438","SAFE select On","SAFE select On","","","safeon.wav"
 "439","SAFE select Off","SAFE select Off","","","safeof.wav"
 "440","ASX3 Mode","ASX3 Mode","","","asx3.wav"
+"441","Autonomous","Autonomous","","","auton.wav"
+"442","Loiter","Loiter","","","ltr.wav"
+"442","Stabilize","Stabilize","","","stb.wav"
